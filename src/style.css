@@ -101,7 +101,7 @@ html *::after {
 }
 
 .player {
-  width: 17.15em;
+  width: 17.5em;
   display: flex;
   overflow: hidden;
   font-size: 1.22em;
